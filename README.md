@@ -1,7 +1,7 @@
 # 🧮 Calculator App
 
-A beautifully designed calculator with a retro-inspired UI featuring a custom window interface, smooth animations, and full keyboard support. Built as Day 1 of the 30 Days 30 Projects challenge.
-
+A clean and interactive calculator application built with a retro-inspired UI.  
+This project supports basic arithmetic operations with smooth animations and keyboard support.
 <p align="center">
   <img src="images/calculator.png" alt="Calculator Preview" width="400">
 </p>
@@ -41,8 +41,8 @@ A beautifully designed calculator with a retro-inspired UI featuring a custom wi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Anjila-26/Pomodoro-Timer.git
-   cd day1
+   git clone https://github.com/varshitha204/Calculator_master.git
+   cd Calculator-master
    ```
 
 2. **Run Web Version**
@@ -195,20 +195,10 @@ This project helped practice:
 
 ## 👨‍💻 Author
 
-**Anjila**
-- GitHub: [@Anjila-26](https://github.com/Anjila-26)
-- Project: [30 Days 30 Projects - Programiz](https://github.com/Anjila-26/Pomodoro-Timer)
+**Kesani saivarshitha**
+- GitHub: (https://github.com/varshitha204)
 
 ## 📄 License
 
-This project is part of the 30 Days 30 Projects challenge and is open source.
-
-## 🙏 Acknowledgments
-
-- Design inspired by retro calculator interfaces
-- Part of the Programiz 30 Days 30 Projects challenge
-- Icons and imagery created for this project
-
+This project is open-source and created for learning and practice purposes.
 ---
-
-**Day 1 of 30** | *Built with 💖 and ☕*
