@@ -63,7 +63,7 @@ This project supports basic arithmetic operations with smooth animations and key
 ## 📂 Project Structure
 
 ```
-day1/
+Calculator_master/
 ├── index.html              # Main HTML structure
 ├── style.css              # Styling and animations
 ├── script.js              # Calculator logic and event handlers
